@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Sample01</title>
+    <title>practice</title>
 </head>
 <body>
     <?php
-    print('now->' . date('G:i:s'));
+    echo 'test' . '123';
     ?>
 </body>
 </html>
